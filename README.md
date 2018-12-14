@@ -1,4 +1,4 @@
-# CC-model-design
+# CC-Stan-2
 This repository contains the necessary data files for the Coding Club tutorial on fitting generalised linear models using the packages rstanarm and brms
 https://ourcodingclub.github.io/2018/04/30/stan-2.html
 
